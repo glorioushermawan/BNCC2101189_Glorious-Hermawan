@@ -1,0 +1,45 @@
+.banner{
+    background    : #212529;
+    color         : white;
+    padding       : 50px;
+    border-radius : 10px;
+}
+
+.banner>h1{
+    font-size: 50px;
+}
+.banner>p{
+    font-size: 25px;
+}
+
+/* BOOK CONTENT */
+.book-content {
+    padding : 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.book-content>.judul{
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.book-content>.penulis{
+    font-size: 15px;
+}
+
+.book-content>.halaman{
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+.book-content>.tahun-terbit{
+    font-size: 13px;
+}
+
+/* MANAGE WRAPPER */
+.manage-wrapper{
+    padding: 30px;
+    border-radius: 10px;
+}
